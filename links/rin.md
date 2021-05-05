@@ -1,0 +1,3 @@
+---
+target: https://rin.rocks
+---
