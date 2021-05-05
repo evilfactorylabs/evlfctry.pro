@@ -1,0 +1,17 @@
+{
+  "name": "@evilfactorylabs/pro",
+  "version": "1.0.0",
+  "description": "a simple URL shortener that doesn't try to do too much. also, serverless",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "fariz <fariz@evilfactory.id>",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
