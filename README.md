@@ -41,7 +41,7 @@ Tidak ada. YOLO.
 ## Menjalankan di production
 
 Cukup push repository ini di GitHub, sesuaikan konten yang ada di direktori `links`,
-sesuaikan konten yang ada di `CNAME`, profit.
+sesuaikan konten yang ada di `.github/workflows/eleventy.yml` khususnya dibagian `cname`, profit.
 
 ## Cara berkontribusi
 
